@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-size : 16px;
+    line-height: 1.5;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: justify;
+  padding: 12%;
+}
+.container2 {
+ display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: justify;
+  gap : 20px; 
+  padding: 0%;
+
+}
